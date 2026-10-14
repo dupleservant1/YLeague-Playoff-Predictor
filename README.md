@@ -18,7 +18,7 @@ ratings and Monte Carlo simulation.
 
 ## Results
 
-![Championship odds](images/championship_odds.png)
+![Championship odds](championship_odds.png)
 
 McNuggets entered the playoffs as the favorite at 31.6% and went on to win the championship,
 beating Free Agents 65-57 in the final.
@@ -27,7 +27,7 @@ Even as the favorite, the model gave them less than a one-in-three chance. Each 
 only 6 regular season games, so the ratings stayed close together and the odds were spread
 fairly evenly across the league.
 
-![Elo ratings over the season](images/elo_history.png)
+![Elo ratings over the season](elo_history.png)
 
 ## How it works
 
